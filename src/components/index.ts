@@ -1,0 +1,9 @@
+export { default as ActivityBar } from './ActivityBar';
+export { default as Sidebar } from './Sidebar';
+export { default as EditorArea } from './EditorArea';
+export { default as StatusBar } from './StatusBar';
+export { default as TitleBar } from './TitleBar';
+export { default as Panel } from './Panel';
+export { default as FileExplorer } from './FileExplorer';
+export { default as Editor } from './Editor';
+export { default as TabBar } from './TabBar';
